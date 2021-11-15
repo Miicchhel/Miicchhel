@@ -32,6 +32,7 @@
   
 **Frameworks:**
   ![Bulma](https://img.shields.io/badge/-Bulma-333333?style=for-the-badge&logo=bulma&logoColor=48c78e)
+  ![Jquery](https://img.shields.io/badge/-Jquery-333333?style=for-the-badge&logo=jquery&logoColor=007ACC)
   
 **Ferramentas:**
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
