@@ -30,11 +30,15 @@
 **Banco de Dados:**
   ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
   
+**Frameworks:**
+  ![Bulma](https://img.shields.io/badge/-Bulma-333333?style=for-the-badge&logo=bulma&logoColor=48c78e)
+  
 **Ferramentas:**
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  [![npm](https://img.shields.io/npm/v/bulma.svg)][npm-link]
-  [![npm](https://img.shields.io/npm/dm/bulma.svg)][npm-link]
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=for-the-badge&logo=trello&logoColor=007ACC)
+  
+  
+
 
 ## Fale comigo 
 
