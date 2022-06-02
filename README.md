@@ -7,8 +7,9 @@
 
 ## Sobre mim
 
-- 🌱 Instrutor de trânsito, estudante - Análise e Desenvolvimento de Sistemas - curioso e concurseiro, que ama 🐶 
-- ♟️ Sabe jogar xadrez? Quer jogar? (miicchhel - lichess #chamaLa) 🎮
+- 🌱 Desenvolvedor FullStack - Trybe (estudante), Análise e Desenvolvimento de Sistemas - Estácio (estudante), curioso e concurseiro
+- 🐶 Amo animais 
+- ♟️  Sabe jogar xadrez? Quer jogar? (miicchhel - lichess #chamaLa) 🎮
 - 👯 Aberto a colab
 
 
