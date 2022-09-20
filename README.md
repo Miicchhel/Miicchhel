@@ -22,26 +22,22 @@
 </div>
 
 ## Minhas Skills
-**Linguagens:**
-  <img align="center" alt="Michel-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Michel-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Michel-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Michel-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Banco de Dados:**
-  ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-  
-**Frameworks:**
-  ![Bulma](https://img.shields.io/badge/-Bulma-333333?style=for-the-badge&logo=bulma&logoColor=48c78e)
-  ![Jquery](https://img.shields.io/badge/-Jquery-333333?style=for-the-badge&logo=jquery&logoColor=007ACC)
+**Tests:**
+  ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=red)
+  ![RTL](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
   
 **Ferramentas:**
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=for-the-badge&logo=trello&logoColor=007ACC)
+  ![Sublime text](https://img.shields.io/badge/sublime_text-333333.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
   
-  
-
-
 ## Fale comigo 
 
 <p align="center">
