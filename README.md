@@ -1,17 +1,36 @@
-# Seja bem vindo, visitante de número <img alingn="center" src="https://profile-counter.glitch.me/Miicchhel/count.svg" /> <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/vulcan-salute_1f596.png" width="60px"></h2>
-
-<!--
-&nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Miicchhel.Miicchhel&style=flat-square&color=0088cc)
-
--->
-
-## Sobre mim
-
-- 🌱 Desenvolvedor FullStack - Trybe (estudante), Análise e Desenvolvimento de Sistemas - Estácio (estudante), curioso e concurseiro
-- 🐶 Amo animais 
-- ♟️  Sabe jogar xadrez? Quer jogar? (miicchhel - lichess #chamaLa) 🎮
-- 👯 Aberto a colab
-
+```javascript
+const aboutMe = {
+  name: 'Michel Ferreira da Silva Melo',
+  from: ['São Paulo', 'SP', 'Brasil'],
+  live: ['Recife', 'PE', 'Brasil'],
+  hobbies: ['Xadrez', 'Animes', 'Música', 'Cinema'],
+  email: 'michel.ferreira.melo@gmail.com',
+  github: 'https://github.com/Miicchhel',
+  linkedin: 'https://www.linkedin.com/in/michel-ferreira-dev/',
+  phone: '(81) 99624-4603',
+  description: {
+    myProfile: `Pessoa estudante de Desenvolvimento Web Full Stack na Trybe e também graduando em ADS na Estácio.`,
+    myObjective: `Continuar aprimorando meus conhecimentos como desenvolvedor Full Stack,
+      com finalidade de adquirir novas experiências que possam agregar ao meu futuro.`,
+    myLastJobs: ['professor de matemática - pré-vestibular | reforço', 'instrutor de trânsito'],
+  },
+  skills: {
+    languages: [
+      'Javascript', 'Python',
+    ],
+    frontend: [
+      'HTML', 'CSS', 'JavaScript', 'Testes unitários - Jest', 'React', 'Redux',
+      'Testes de integração - React Testing Library (RTL)', 'Context API', 'React Hooks',
+    ],
+    backend: [
+      'MySQL - em construção',
+    ],
+    tools: [
+      'Git', 'Github', 'Docker'
+    ],
+  }
+}
+```
 
 
 <div align="center">
@@ -21,19 +40,15 @@
   </a>
 </div>
 
-## Minhas Skills
+## Minha Caixa de Ferramentas
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Tests:**
   ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=red)
   ![RTL](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
-  
-**Ferramentas:**
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=for-the-badge&logo=trello&logoColor=007ACC)
   ![Sublime text](https://img.shields.io/badge/sublime_text-333333.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
