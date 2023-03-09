@@ -16,14 +16,14 @@ const aboutMe = {
   },
   skills: {
     languages: [
-      'Javascript', 'Python',
+      'Javascript', 'Python', 'SQL'
     ],
     frontend: [
       'HTML', 'CSS', 'JavaScript', 'Testes unitários - Jest', 'React', 'Redux',
       'Testes de integração - React Testing Library (RTL)', 'Context API', 'React Hooks',
     ],
     backend: [
-      'MySQL - em construção',
+      'MySQL', 'Node.js', 'MSC', 'Sequelize'
     ],
     tools: [
       'Git', 'Github', 'Docker'
