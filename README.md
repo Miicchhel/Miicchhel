@@ -15,18 +15,12 @@ const aboutMe = {
     myLastJobs: ['professor de matemática - pré-vestibular | reforço', 'instrutor de trânsito'],
   },
   skills: {
-    languages: [
-      'Javascript', 'Python', 'SQL'
-    ],
     frontend: [
-      'HTML', 'CSS', 'JavaScript', 'Testes unitários - Jest', 'React', 'Redux',
+      'HTML', 'CSS', 'JavaScript', 'Git', 'Github', 'Testes unitários - Jest', 'React', 'Redux',
       'Testes de integração - React Testing Library (RTL)', 'Context API', 'React Hooks',
     ],
     backend: [
-      'MySQL', 'Node.js', 'MSC', 'Sequelize'
-    ],
-    tools: [
-      'Git', 'Github', 'Docker'
+      'Docker', 'SQL', 'MySQL', 'Node.js', 'TypeScript', 'MongoDB', 'MSC', 'Sequelize', 'Python'
     ],
   }
 }
