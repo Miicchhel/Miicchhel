@@ -16,11 +16,11 @@ const aboutMe = {
   },
   skills: {
     frontend: [
-      'HTML', 'CSS', 'JavaScript', 'Git', 'Github', 'Testes unitários - Jest', 'React', 'Redux',
-      'Testes de integração - React Testing Library (RTL)', 'Context API', 'React Hooks',
+      'HTML', 'CSS', 'JavaScript', 'Git', 'Github', 'React', 'Redux', 'Context API', 'Testes unitários - Jest',
+      'Testes de integração - React Testing Library (RTL)',
     ],
     backend: [
-      'Docker', 'SQL', 'MySQL', 'Node.js', 'TypeScript', 'MongoDB', 'MSC', 'Sequelize', 'Python'
+      'Docker', 'SQL', 'MySQL', 'Sequelize', 'Node.js', 'TypeScript', 'MongoDB', 'MSC', 'Mongoose', 'Python', 'PyTest'
     ],
   }
 }
