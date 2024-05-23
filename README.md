@@ -9,10 +9,15 @@ const aboutMe = {
   linkedin: 'https://www.linkedin.com/in/michel-ferreira-dev/',
   phone: '(81) 99624-4603',
   description: {
-    myProfile: `Pessoa estudante de Desenvolvimento Web Full Stack na Trybe e também graduando em ADS na Estácio.`,
+    myProfile: `Mestrando em Informática Aplicada (PPGIA-UFRPE). Desenvolvedor Web Full Stack, com graduação em Análise
+        e Desenvolvimento de Sistemas.`,
     myObjective: `Continuar aprimorando meus conhecimentos como desenvolvedor Full Stack,
-      com finalidade de adquirir novas experiências que possam agregar ao meu futuro.`,
-    myLastJobs: ['professor de matemática - pré-vestibular | reforço', 'instrutor de trânsito'],
+        visando adquirir novas experiências e competências que contribuam para minha trajetória profissional e acadêmica.`,
+    myLastJobs: [
+      'professor de matemática - pré-vestibular | reforço', 
+      'instrutor de trânsito',
+      'Desenvolvedor de Software - DTIC UPE (estágio)'
+    ],
   },
   skills: {
     frontend: [
@@ -22,6 +27,7 @@ const aboutMe = {
     backend: [
       'Docker', 'SQL', 'MySQL', 'Sequelize', 'Node.js', 'TypeScript', 'MongoDB', 'MSC', 'Mongoose', 'Python', 'PyTest'
     ],
+    mobile: ['flutter']
   }
 }
 ```
